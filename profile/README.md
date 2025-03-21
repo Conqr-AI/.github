@@ -1,6 +1,6 @@
 # Conqr AI: Your Legal AI Co-Pilot
 
-![Conqr AI Logo](https://res.cloudinary.com/df6weqp1w/image/upload/v1742571939/logooo_vgkoru.png)
+![Conqr AI Logo](https://res.cloudinary.com/df6weqp1w/image/upload/v1742571939/h_250,w_250/logooo_vgkoru.png)
 
 ## About Conqr AI
 
