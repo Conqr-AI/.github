@@ -1,6 +1,6 @@
 # Conqr AI: Your Legal AI Co-Pilot
 
-![Conqr AI Logo](https://placeholder-for-logo-url.com/logo.png)
+![Conqr AI Logo](https://res.cloudinary.com/df6weqp1w/image/upload/v1742571939/logooo_vgkoru.png)
 
 ## About Conqr AI
 
@@ -38,10 +38,10 @@ The system continuously learns from user interactions and feedback, progressivel
 ### Installation
 ```bash
 # For local development environments
-git clone https://github.com/yourusername/conqr-ai.git
-cd conqr-ai
-npm install
-npm start
+git clone https://github.com/conqr-AI/conqr-web.git
+cd conqr-web
+bun install
+bun run dev
 ```
 
 ### Basic Configuration
@@ -60,5 +60,5 @@ npm start
 
 ---
 
-© 2023 Conqr AI. All rights reserved.
+© 2025 Conqr AI. All rights reserved.
 
